@@ -1,0 +1,16 @@
+body{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+div{
+    border: 6px solid;
+    line-height: 2.5;
+}
+
+h3{
+    text-align: left;
+    padding-left: 150px;
+    padding-top: -10px;
+}
